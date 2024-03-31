@@ -1,4 +1,4 @@
-                                                            NAME:Hemapriya K
+                                                            NAME:PRIYANGHA
                                                             REGNO:212223040066
 # EX:4 Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
